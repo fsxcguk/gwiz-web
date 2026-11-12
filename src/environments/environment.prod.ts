@@ -8,6 +8,7 @@ export const environment = {
   stripePublishableKey:
     'pk_live_51Sb9d7Q1tLsYGMLeVLonQ2A3Jr5nD81qZd7vzp3bxx8TgcUhZHZwSJdSNkG1lbPqvD8lRyvgNJGrwLT1brMXrrLe00o8A5MdTv',
   buildId: '2026-01-09-1',
+  runtimeConfigEnabled: false,
 };
 /*
  * For easier debugging in development mode, you can import the following file
